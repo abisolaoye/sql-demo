@@ -12,5 +12,4 @@
 This involves removing empty columns, eliminating outliers
 
 ## Table of content
-[Data Cleaning] (#Data-Cleaning)
-😙
+
